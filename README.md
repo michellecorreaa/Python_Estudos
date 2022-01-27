@@ -1,4 +1,4 @@
-# Meus Estudos com o Python
+# Meus Estudos com o Python :snake: :octocat:
   
   
 Pequenos Projetos em Python para adquirir habilidade com a linguagem. Estes projetos foram desenvolvidos em aulas da Comunidade FLAI - Inteligencia Artificial e Data Science
