@@ -1,15 +1,15 @@
-# Meus Estudos com o Python :snake: :octocat:
+# Meus Estudos com o Python 
   
   
 Pequenos Projetos em Python para adquirir habilidade com a linguagem. Estes projetos foram desenvolvidos em aulas da Comunidade FLAI - Inteligencia Artificial e Data Science
 
-**Projetos**
+**Projetos**  :snake: :octocat:
 
-1. Simulador do Jogo 21
+1. Simulador do Jogo 21 :black_joker:
     * Objetivo: Criar um programa que simule o Jogo 21
     
-2. Album de Figurinhas
+2. Album de Figurinhas :notebook_with_decorative_cover:
     * Objetivo: Construção de um algoritmo de um album de figurinhas para responder algumas perguntas como: valor médio investido para completar um album de 212 figurinhas e quantidade de pacotes necessários para se completar um album.
     
-3. Roleta
+3. Roleta :clubs:
     * Objetivo: Criar um programa que simule um pequeno jogo de roleta de um cassino
