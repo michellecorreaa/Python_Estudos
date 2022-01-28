@@ -15,4 +15,4 @@ Pequenos Projetos em Python para adquirir habilidade com a linguagem. Estes proj
     * Objetivo: Criar um programa que simule um pequeno jogo de roleta de um cassino
 
 4. Automação de email
-    * Objetivo: Criar um programa para envio de e-mails com resultados da venda anterior. Uso da biblioteca pyautogui (automatização de comandos do mouse e teclado). Aula vista no curso da Hashtag Treinamentos
+    * Objetivo: Criar um programa para envio de e-mails com resultados da venda anterior. Uso da biblioteca pyautogui (automação de comandos do mouse e teclado). Aula vista no curso da Hashtag Treinamentos
